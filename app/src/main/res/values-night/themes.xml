@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SubmisionAwal" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pixel_night</item>
+        <item name="colorOnPrimary">@color/pixel_night</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pixel_night</item>
+        <item name="colorOnSecondary">@color/pixel_night</item>
+    </style>
+
+    <style name="SCREEN">
+        <item name="android:background">#000000</item>
+    </style>
+</resources>
